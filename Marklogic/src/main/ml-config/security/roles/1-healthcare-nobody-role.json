@@ -1,0 +1,5 @@
+{
+  "role-name" : "healthcare-nobody",
+  "description" : "Unauthenticated user",
+  "role" : [ ]
+}

@@ -1,0 +1,5 @@
+{
+  "user-name" : "healthcare-admin",
+  "password" : "healthcare-admin",
+  "role" : [ "healthcare-admin" ]
+}
