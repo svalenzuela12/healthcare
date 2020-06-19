@@ -1,0 +1,117 @@
+{
+    "template": {
+        "context": "/",
+        "description": "Hospitals",
+        "collections": [
+            "hospitals"
+        ],
+        "rows": [
+            {
+                "schemaName": "healthcare",
+                "viewName": "hospitals",
+                "columns": [
+                    {
+                        "name": "OBJECTID",
+                        "val": "OBJECTID",
+                        "scalarType": "string"
+                    },
+                    {
+                        "name": "NAME",
+                        "val": "NAME",
+                        "scalarType": "string"
+                    },
+                    {
+                        "name": "ADDRESS",
+                        "val": "ADDRESS",
+                        "scalarType": "string"
+                    },
+                    {
+                        "name": "CITY",
+                        "val": "CITY",
+                        "scalarType": "string"
+                    },
+                    {
+                        "name": "STATE",
+                        "val": "STATE",
+                        "scalarType": "string"
+                    },
+                    {
+                        "name": "ZIP",
+                        "val": "ZIP",
+                        "scalarType": "string"
+                    },
+                    {
+                        "name": "TYPE",
+                        "val": "TYPE",
+                        "scalarType": "string"
+                    },
+                    {
+                        "name": "STATUS",
+                        "val": "STATUS",
+                        "scalarType": "string"
+                    },
+                    {
+                        "name": "COUNTY",
+                        "val": "COUNTY",
+                        "scalarType": "string"
+                    },
+                    {
+                        "name": "COUNTRY",
+                        "val": "COUNTRY",
+                        "scalarType": "string"
+                    },
+                    {
+                        "name": "LATITUDE",
+                        "val": "LATITUDE",
+                        "scalarType": "string"
+                    },
+                    {
+                        "name": "LONGITUDE",
+                        "val": "LONGITUDE",
+                        "scalarType": "string"
+                    },
+                    {
+                        "name": "NAICS_DESC",
+                        "val": "NAICS_DESC",
+                        "scalarType": "string"
+                    },
+                    {
+                        "name": "SOURCE",
+                        "val": "SOURCE",
+                        "scalarType": "string"
+                    },
+                    {
+                        "name": "SOURCEDATE",
+                        "val": "SOURCEDATE",
+                        "scalarType": "string"
+                    },
+                    {
+                        "name": "WEBSITE",
+                        "val": "WEBSITE",
+                        "scalarType": "string"
+                    },
+                    {
+                        "name": "OWNER",
+                        "val": "OWNER",
+                        "scalarType": "string"
+                    },
+                    {
+                        "name": "BEDS",
+                        "val": "BEDS",
+                        "scalarType": "string"
+                    },
+                    {
+                        "name": "TRAUMA",
+                        "val": "TRAUMA",
+                        "scalarType": "string"
+                    },
+                    {
+                        "name": "HELIPAD",
+                        "val": "HELIPAD",
+                        "scalarType": "string"
+                    }
+                ]
+            }
+        ]
+    }
+}
